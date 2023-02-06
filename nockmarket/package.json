@@ -1,0 +1,15 @@
+{
+  "name": "nockmarket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Martin Mikulec",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "should": "^13.2.3"
+  }
+}
